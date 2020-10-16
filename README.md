@@ -1,2 +1,2 @@
-Moduly instaluja sie przy npm install.
+Moduly instaluja sie npm install.
 Nastepnie uruchamiamy przez npm start.
